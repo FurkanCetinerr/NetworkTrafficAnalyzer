@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2025 Furkan Çetiner
+
+İzin verilir, koşullar şu şekildedir:
+- Yazılımı ve ilgili belgeleri herhangi bir şekilde kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, yeniden lisanslamak veya satmak serbesttir, ancak aşağıdaki koşullar sağlanmalıdır:
+- Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi yazılımın tüm kopyalarında yer almalıdır.
+
+Yazılım "olduğu gibi" sağlanır, açık ya da zımni hiçbir garanti verilmez.

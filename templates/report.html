@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Traffic Report</title>
+</head>
+<body>
+    <h1>Network Traffic Report</h1>
+    <h2>Source Port Distribution</h2>
+    <img src="{{ url_for('static', filename='source_port_distribution.png') }}" alt="Source Port Distribution">
+    <h2>Destination Port Distribution</h2>
+    <img src="{{ url_for('static', filename='destination_port_distribution.png') }}" alt="Destination Port Distribution">
+    <br>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</body>
+</html>
